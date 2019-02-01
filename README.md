@@ -1,4 +1,4 @@
-# React Contacts
+# React Truly PhoneBook
 
 ## Setting up project
 
