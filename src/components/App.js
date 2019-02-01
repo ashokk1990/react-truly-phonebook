@@ -125,7 +125,6 @@ class App extends PureComponent {
                             </thead>
                             <tbody>
                             {contacts.data.map(({name, number, context}) => {
-                                //Generating a unique string of length 6 to use as key
                                 return (
                                     <tr key={number} className="table-rows">
                                         <td className="stats">{name}</td>
