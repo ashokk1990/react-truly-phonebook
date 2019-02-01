@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddContact Component snapshot 1`] = `
+<div
+  className="ui form"
+>
+  <div
+    className="fields"
+  >
+    <div
+      className="field"
+    >
+      <label>
+        Name
+      </label>
+      <input
+        onChange={[Function]}
+        placeholder="Name"
+        required={true}
+        type="text"
+      />
+    </div>
+    <div
+      className="field"
+    >
+      <label>
+        Number
+      </label>
+      <input
+        onChange={[Function]}
+        placeholder="Number"
+        required={true}
+        type="number"
+      />
+    </div>
+    <div
+      className="field"
+    >
+      <label>
+        Context
+      </label>
+      <input
+        onChange={[Function]}
+        placeholder="Context"
+        required={true}
+        type="text"
+      />
+    </div>
+  </div>
+  <button
+    className="ui icon button"
+    onClick={[Function]}
+  >
+    Add
+  </button>
+</div>
+`;
